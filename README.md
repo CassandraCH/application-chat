@@ -1,14 +1,14 @@
-## PROJET :
+## PROJET - Application de chat instantanné :
 Projet réalisé dans le cadre du module "Programmation Orientée Objet et Java" de la 3ème année de Licence Informatique (Le Mans Université).
 
-### OBJECTIFS :
+### Objectifs :
 
 * Réaliser une application client-serveur de chat
 * Appliquer les connaissances acquises en Java
 * Réaliser une interface graphique
 * Utiliser la communication réseau qui a été introduite en cours (threads, socket, multithreading...)
 
-### FONCTIONNALITES IMPLEMENTEES :
+### Fonctionnalités implémentées :
 
 * Couleurs pour différencier les utilisateurs
 * Messages en broadcast (tous les clients recoivent le message)
@@ -16,7 +16,7 @@ Projet réalisé dans le cadre du module "Programmation Orientée Objet et Java"
 * Les messages privés sont en italique (les autres sont en gras)
 * Possibilité de reconnexion apres une déconnexion dans la meme fenetre
 
-### MODE D'EMPLOI :
+### Mode d'emploi :
 
 1. Lancer le serveur => compiler et exécuter : FenetreServeur.java
 2. Ouvrir des fenêtres pour les clients => compiler et executer FenetreClient.java
