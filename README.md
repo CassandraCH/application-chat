@@ -1,6 +1,10 @@
 ## PROJET - Application de chat instantanné :
 Projet réalisé dans le cadre du module "Programmation Orientée Objet et Java" de la 3ème année de Licence Informatique (Le Mans Université).
 
+
+![capture](capture.png)
+
+
 ### Objectifs :
 
 * Réaliser une application client-serveur de chat
@@ -15,6 +19,11 @@ Projet réalisé dans le cadre du module "Programmation Orientée Objet et Java"
 * Messages privés (seulement 1 destinataire que l'expediteur a selectionne)
 * Les messages privés sont en italique (les autres sont en gras)
 * Possibilité de reconnexion apres une déconnexion dans la meme fenetre
+
+
+### Démonstration :
+
+![alt text](demo3.gif)
 
 ### Mode d'emploi :
 
