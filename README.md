@@ -2,7 +2,7 @@
 Projet réalisé dans le cadre du module "Programmation Orientée Objet et Java" de la 3ème année de Licence Informatique (Le Mans Université).
 
 
-![capture](capture.png)
+![capture](doc/capture.png)
 
 
 ### Objectifs :
@@ -23,7 +23,7 @@ Projet réalisé dans le cadre du module "Programmation Orientée Objet et Java"
 
 ### Démonstration :
 
-![alt text](demo3.gif)
+![alt text](doc/demo3.gif)
 
 ### Mode d'emploi :
 
